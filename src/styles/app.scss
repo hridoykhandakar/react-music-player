@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+h1,h2,h3{
+  color: #3B444B;
+}
+@import "./player";
+@import "./song";
+
+img{
+  width: 100%;
+}
