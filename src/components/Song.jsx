@@ -1,11 +1,11 @@
-function Song({ currentSongs }) {
+function Song({ currentSong }) {
   return (
     <div className="song-container">
       <div className="song-img">
-        <img src={currentSongs.cover} alt="" />
+        <img src={currentSong.cover} alt="" />
       </div>
-      <h1>{currentSongs.name}</h1>
-      <h2>{currentSongs.artist}</h2>
+      <h1>{currentSong.name}</h1>
+      <h2>{currentSong.artist}</h2>
     </div>
   );
 }

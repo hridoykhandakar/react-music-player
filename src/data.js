@@ -7,9 +7,10 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
       artist: "Aso, Middle School, Aviino",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
+      // audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
+      audio: "https://pagalnew.com/download320/30350",
       color: ["#205950", "#2ab3bf"],
-      id: uuidv4(),
+      id: 1,
       active: true,
     },
     {
@@ -19,7 +20,7 @@ function chillHop() {
       artist: "Aiguille",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9272",
       color: ["#EF8EA9", "#ab417f"],
-      id: uuidv4(),
+      id: 2,
       active: false,
     },
     {
@@ -29,7 +30,7 @@ function chillHop() {
       artist: "Swørn",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9222",
       color: ["#CD607D", "#c94043"],
-      id: uuidv4(),
+      id: 3,
       active: false,
     },
     {
@@ -39,7 +40,7 @@ function chillHop() {
       artist: "Aiguille",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9148",
       color: ["#EF8EA9", "#ab417f"],
-      id: uuidv4(),
+      id: 4,
       active: false,
     },
     {
@@ -49,7 +50,7 @@ function chillHop() {
       artist: "Swørn",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9228",
       color: ["#CD607D", "#c94043"],
-      id: uuidv4(),
+      id: 5,
       active: false,
     },
     {
@@ -59,7 +60,7 @@ function chillHop() {
       artist: "Aso, Middle School, Aviino",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10074",
       color: ["#205950", "#2ab3bf"],
-      id: uuidv4(),
+      id: 6,
       active: false,
     },
     //ADD MORE HERE
